@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Dubhashe</h1>
 <h3 align="center">Dedicated IT Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0xq5POUosoFs04T0dBGrLI&ust=1754409820215000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiB2K7E8Y4DFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket4141-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aniket4141-coder" /> </p>
 
