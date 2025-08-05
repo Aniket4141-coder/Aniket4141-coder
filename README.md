@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Dubhashe</h1>
 <h3 align="center">Dedicated IT student with a strong foundation in software development and a passion for technology-driven problem solving.</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/dea12a1c-69bc-45f4-aff2-8f016209f07d" />
-">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket4141-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aniket4141-coder" /> </p>
 
