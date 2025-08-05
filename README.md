@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Dubhashe</h1>
 <h3 align="center">Dedicated IT student with a strong foundation in software development and a passion for technology-driven problem solving.</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2_dPf1h2MYrGyF8y97tE3B&ust=1754489957279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjE4ojv844DFQAAAAAdAAAAABAE">
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/code.gif" />
 
