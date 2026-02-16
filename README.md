@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Dubhashe</h1>
-<h3 align="center">Dedicated IT student with a strong foundation in software development and a passion for technology-driven problem solving.</h3>
+<h3 align="center">Dedicated IT student with a strong foundation in Data Science and a passion for technology-driven problem solving.</h3>
 
 <img align="right" alt="coding" width="350" alt="image" src="https://github.com/user-attachments/assets/e3fc718a-81b2-43d6-8252-8ff88ce8fcc1" />
 
