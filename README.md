@@ -117,9 +117,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aniket4141-coder&theme=github-dark" />
-</p>
-
----
+</p>---
 
 ## 🚀 Current Learning Focus
 
