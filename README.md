@@ -1,37 +1,41 @@
 <h1 align="center">Hi 👋, I'm Aniket Dubhashe</h1>
 <h3 align="center">Data Analytics & Data Science Enthusiast | MCA Student | Transforming Data into Meaningful Insights</h3>
 
-<img align="right" alt="data-analytics" width="350" src="https://github.com/user-attachments/assets/e3fc718a-81b2-43d6-8252-8ff88ce8fcc1" />
+<img align="right" alt="Data Analytics" width="350" src="https://github.com/user-attachments/assets/e3fc718a-81b2-43d6-8252-8ff88ce8fcc1" />
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aniket4141-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aniket4141-coder" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aniket4141-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 📌 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 📊 Passionate about **Data Analytics, Machine Learning & Business Intelligence**
-- 📈 Interested in extracting insights from structured & unstructured data
-- 🧠 Strong foundation in SQL, statistics, and data-driven problem solving
-- 📫 Contact: **aniketdubhashe@gmail.com**
+🎓 Pursuing **Master of Computer Applications (MCA)**
+
+📊 Passionate about **Data Analytics, Machine Learning & Business Intelligence**
+
+📈 Interested in extracting valuable insights from **structured and unstructured data**
+
+🧠 Strong foundation in **SQL, Statistics, and Data-Driven Problem Solving**
+
+📫 Reach me at: **aniketdubhashe@gmail.com**
 
 ---
 
 ## 🔎 Core Skills
 
 ### 📊 Data Analytics
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Dashboarding  
-- Statistical Analysis  
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization & Dashboarding
+- Statistical Analysis
 
 ### 🤖 Data Science
-- Machine Learning Algorithms  
-- Model Evaluation & Validation  
-- Predictive Analytics  
-- Feature Engineering  
+- Machine Learning Algorithms
+- Model Evaluation & Validation
+- Predictive Analytics
+- Feature Engineering
 
 ---
 
@@ -71,37 +75,41 @@
 
 ## 📈 Areas of Interest
 
-- Business Data Analysis  
-- Predictive Modeling  
-- Data Visualization & Reporting  
-- SQL-Based Data Querying  
-- Research in Data-Driven Systems  
+- Business Data Analysis
+- Predictive Modeling
+- Data Visualization & Reporting
+- SQL-Based Data Querying
+- Research in Data-Driven Systems
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket4141-coder&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket4141-coder&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket4141-coder&show_icons=true&locale=en" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket4141-coder&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket4141-coder" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket4141-coder" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🚀 Current Learning Focus
 
-- Advanced SQL for Analytics  
-- Machine Learning with Scikit-Learn  
-- Data Visualization Best Practices  
-- Real-World Dataset Projects  
+- Advanced SQL for Analytics
+- Machine Learning with Scikit-Learn
+- Data Visualization Best Practices
+- Real-World Dataset Projects
 
 ---
 
-⭐ *“Data is the new oil, but insight is the real power.”*
+### 💡 Philosophy
+
+> **"Data is the new oil, but insight is the real power."**
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
