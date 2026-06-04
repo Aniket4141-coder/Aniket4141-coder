@@ -1,7 +1,6 @@
 # Hi 👋, I'm Aniket Dubhashe
 
 ### Data Analytics & Data Science Enthusiast | MCA Student | Transforming Data into Meaningful Insights
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniket4141-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
