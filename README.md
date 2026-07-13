@@ -1,150 +1,349 @@
-# Hi 👋, I'm Aniket Dubhashe
+````markdown
+<h1 align="center">Hi 👋, I'm Aniket Dubhashe</h1>
 
-### Data Analytics & Data Science Enthusiast | MCA Student | Transforming Data into Meaningful Insights
+<h3 align="center">
+Data Analytics Enthusiast | Aspiring Data Scientist | MCA Student | Python • SQL • Power BI
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniket4141-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Learner;Open+to+Internships+and+Job+Opportunities" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aniket4141-coder&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/aniket4141-coder?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/aniket4141-coder?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 📊 Passionate about **Data Analytics, Machine Learning & Business Intelligence**
-- 📈 Interested in extracting insights from structured and unstructured data
-- 🧠 Strong foundation in **SQL, Statistics & Data-Driven Problem Solving**
-- 🌱 Currently learning **Advanced SQL, Machine Learning & Data Visualization**
-- 📫 Reach me at: **aniketdubhashe@gmail.com**
+🎓 Pursuing **Master of Computer Applications (MCA)**
+
+📊 Passionate about **Data Analytics, Machine Learning, and Business Intelligence**
+
+📈 Interested in solving real-world business problems using data.
+
+🌱 Currently learning
+
+- Advanced SQL
+- Machine Learning
+- Statistics
+- Power BI
+- Data Visualization
+
+💡 Love building end-to-end data projects from raw datasets to dashboards and predictive models.
+
+📫 Email
+
+**aniketdubhashe@gmail.com**
 
 ---
 
-## 🔎 Core Skills
+# 🌐 Connect With Me
 
-### 📊 Data Analytics
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization & Dashboarding
-- Statistical Analysis
+<p align="center">
+
+<a href="https://github.com/aniket4141-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aniketdubhashe@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+</p>
+
+---
+
+# 📊 Core Skills
+
+### 📈 Data Analytics
+
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+- Data Visualization
 
 ### 🤖 Data Science
-- Machine Learning Algorithms
+
+- Machine Learning
 - Predictive Analytics
-- Model Evaluation & Validation
+- Model Evaluation
 - Feature Engineering
+- Data Preprocessing
+- Random Forest
+- K-Means Clustering
+
+### 📚 Programming
+
+- Python
+- SQL
+- DAX
+- Power Query
 
 ---
 
-## 🛠️ Tools & Technologies
+# 📊 Skill Progress
+
+```text
+Python                 ███████████░ 90%
+
+SQL                    ██████████░░ 88%
+
+Power BI               █████████░░░ 82%
+
+Excel                  ██████████░░ 90%
+
+Machine Learning       ███████░░░░░ 72%
+
+Statistics             ████████░░░░ 78%
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Recruitment System
+
+**Tech Stack**
+
+Python • NLP • Gemini • FAISS • LLM
+
+✔ AI Candidate Ranking
+
+✔ Semantic Resume Matching
+
+✔ Hybrid Scoring Engine
+
+✔ Recruiter Dashboard
+
+---
+
+## 🏥 AI Disease Prediction System
+
+**Tech Stack**
+
+Python • Flask • Random Forest • MySQL
+
+✔ Predict Diseases
+
+✔ ML Model
+
+✔ User Authentication
+
+✔ Medical Prediction History
+
+---
+
+## 📊 Vendor Performance Analysis
+
+**Tech Stack**
+
+SQL • Python • Power BI
+
+✔ KPI Dashboard
+
+✔ Vendor Performance
+
+✔ Sales Analysis
+
+✔ Business Insights
+
+---
+
+## 🏦 Bank Customer Churn Analysis
+
+**Tech Stack**
+
+Power BI • Excel • DAX
+
+✔ Churn Analysis
+
+✔ Customer Segmentation
+
+✔ Executive Dashboard
+
+---
+
+## 🛒 Customer Segmentation Analysis
+
+**Tech Stack**
+
+Python
+
+Pandas
+
+KMeans
+
+Matplotlib
+
+✔ Customer Clustering
+
+✔ Business Recommendations
+
+---
+
+# 🏅 Certifications
+
+🏆 GenAI Powered Data Analytics – Tata
+
+🏆 SQL for Data Science – Great Learning
+
+🏆 Data Analytics Virtual Experience
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniket4141-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="https://numpy.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="50" height="50"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket4141-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Areas of Interest
+# 🔥 GitHub Streak
 
-- Business Data Analysis
-- Data Visualization & Reporting
-- Predictive Modeling
-- SQL-Based Analytics
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket4141-coder&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket4141-coder&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aniket4141-coder&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Data Warehousing
+- Machine Learning
+- Power BI Dashboarding
+- Statistics
 - Business Intelligence
-- Research in Data-Driven Systems
 
 ---
 
-## 📂 Featured Projects
+# 🎯 2026 Goals
 
-### 📊 Vendor Performance Analysis
-- SQL, Python, Pandas, Power BI
-- Analyzed vendor and sales performance
-- Built KPI dashboards and business reports
+✅ Become a Data Analyst
 
-### 🏦 Bank Customer Churn Analysis
-- Excel, Power BI, DAX, Power Query
-- Analyzed 10,000+ customer records
-- Generated churn reduction insights
+✅ Master SQL
 
-### 🤖 AI-Powered Disease Prediction System
-- Python, Flask, Machine Learning
-- Built predictive healthcare solution
-- Applied Random Forest Algorithm
+✅ Build 25+ Data Projects
+
+✅ Learn Advanced Power BI
+
+✅ Learn Cloud Basics
+
+✅ Contribute to Open Source
 
 ---
 
-## 📜 Certifications
+# 📂 Featured Technologies
 
-- GenAI Powered Data Analytics – Tata
-- SQL for Data Science – Great Learning
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniket4141-coder&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket4141-coder&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aniket4141-coder&theme=github-dark" />
-</p>---
-
-## 🚀 Current Learning Focus
-
-- Advanced SQL for Analytics
-- Machine Learning with Scikit-Learn
-- Data Visualization Best Practices
-- Real-World Dataset Projects
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python, SQL |
+| Database | MySQL |
+| Data Analytics | Excel, Power BI |
+| Libraries | Pandas, NumPy |
+| Machine Learning | Scikit-Learn |
+| Visualization | Matplotlib |
 
 ---
 
-## 🤝 Connect With Me
+# 📊 Areas of Interest
 
-<p align="center">
-<a href="https://github.com/aniket4141-coder">
-GitHub
-</a>
-&nbsp; | &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
-LinkedIn
-</a>
-</p>
+- Business Analytics
 
----
+- Data Science
 
-## 💡 Quote
+- Business Intelligence
 
-> **"Data is the new oil, but insight is the real power."**
+- Machine Learning
+
+- Dashboard Development
+
+- Predictive Analytics
+
+- Data Visualization
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# 💡 Fun Fact
+
+I enjoy transforming raw datasets into meaningful business insights and continuously learning new technologies in Data Analytics and AI.
+
+---
+
+# 💬 Favorite Quote
+
+> **"Without data, you're just another person with an opinion."**  
+> **— W. Edwards Deming**
+
+---
+
+# ⭐ Thanks for Visiting
+
+If you like my projects, consider giving them a ⭐ and feel free to connect with me.
+
+Happy Coding! 🚀
+````
